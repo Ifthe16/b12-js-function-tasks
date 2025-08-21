@@ -21,4 +21,4 @@ Write a function called `count_zero()` which will take a binary string (Binary s
 ---
 
 ### Task-5 
-Write a function called `odd_even()` which takes an integer value and tells whether this value is even or odd. If even return `Even`. If odd return `Odd`.
+Write a function called `odd_even()` which takes an integer value and tells whether this value is even or odd. If even return **Even**. If odd return **Odd**.
