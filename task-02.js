@@ -16,5 +16,5 @@ const even = 14;
 const result = multiplyOrDivide(odd);
 const result2 = multiplyOrDivide(even);
 
-console.log(result);
-console.log(result2);
+console.log('Result:', result);
+console.log('Result:', result2);
